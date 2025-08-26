@@ -1,33 +1,26 @@
-[10:25:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[10:25:38] [ServerMain/INFO]: No existing world data, creating new world
-[10:25:39] [ServerMain/INFO]: Loaded 1175 recipes
-[10:25:39] [ServerMain/INFO]: Loaded 1276 advancements
-[10:25:39] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[10:25:39] [Server thread/INFO]: Loading properties
-[10:25:39] [Server thread/INFO]: Default game type: SURVIVAL
-[10:25:39] [Server thread/INFO]: Generating keypair
-[10:25:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:25:40] [Server thread/INFO]: Using epoll channel type
-[10:25:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:25:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:25:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:25:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:25:40] [Server thread/INFO]: Preparing level "world"
-[10:25:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:25:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[10:25:46] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[10:25:46] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[10:25:47] [Worker-Main-1/INFO]: Preparing spawn area: 12%
-[10:25:47] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[10:25:48] [Worker-Main-3/INFO]: Preparing spawn area: 24%
-[10:25:48] [Worker-Main-3/INFO]: Preparing spawn area: 32%
-[10:25:49] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[10:25:49] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[10:25:50] [Worker-Main-3/INFO]: Preparing spawn area: 69%
-[10:25:50] [Worker-Main-1/INFO]: Preparing spawn area: 91%
-[10:25:50] [Server thread/INFO]: Time elapsed: 5085 ms
-[10:25:50] [Server thread/INFO]: Done (10.569s)! For help, type "help"
-[10:29:45] [Server thread/INFO]: jniorv[/127.233.98.0:51345] logged in with entity id 17 at (-1.5, 114.0, 5.5)
-[10:29:45] [Server thread/INFO]: jniorv joined the game
-[10:31:00] [Server thread/INFO]: jniorv lost connection: Disconnected
-[10:31:00] [Server thread/INFO]: jniorv left the game
+[20:53:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:53:48] [ServerMain/INFO]: Loaded 1175 recipes
+[20:53:48] [ServerMain/INFO]: Loaded 1276 advancements
+[20:53:48] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[20:53:48] [Server thread/INFO]: Loading properties
+[20:53:48] [Server thread/INFO]: Default game type: SURVIVAL
+[20:53:48] [Server thread/INFO]: Generating keypair
+[20:53:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:53:49] [Server thread/INFO]: Using epoll channel type
+[20:53:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:53:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:53:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:53:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:53:49] [Server thread/INFO]: Preparing level "world"
+[20:53:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:53:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:53:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:53:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:53:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:53:53] [Worker-Main-1/INFO]: Preparing spawn area: 57%
+[20:53:53] [Server thread/INFO]: Time elapsed: 2049 ms
+[20:53:53] [Server thread/INFO]: Done (4.585s)! For help, type "help"
+[20:54:25] [Server thread/INFO]: jniorv[/127.233.98.0:36909] logged in with entity id 76 at (-15.300000011920929, 116.0, 8.975855845602641)
+[20:54:25] [Server thread/INFO]: jniorv joined the game
+[20:59:26] [Server thread/INFO]: jniorv lost connection: Disconnected
+[20:59:26] [Server thread/INFO]: jniorv left the game
